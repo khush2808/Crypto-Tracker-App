@@ -29,7 +29,7 @@ export default function AnchorTemporaryDrawer() {
           <Link to="/dashboard">
             <p className="link">Dashboard</p>
           </Link>
-          <a href="https://sajalnamdeo.netlify.app" target="_blank">
+          <a href="https://khushshah.vercel.app" target="_blank">
             <p className="link">About Me</p>
           </a>
         </div>
